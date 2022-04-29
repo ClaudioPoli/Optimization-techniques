@@ -1,0 +1,122 @@
+{
+  "AB": {
+    "name": "Abruzzo",
+    "capital": "L'Aquila",
+    "lat": "42.354008",
+    "long": "13.391992"
+  },
+  "BA": {
+    "name": "Basilicata",
+    "capital": "Potenza",
+    "lat": "40.633333",
+    "long": "15.800000"
+  },
+  "CA": {
+    "name": "Calabria",
+    "capital": "Catanzaro",
+    "lat": "38.910000",
+    "long": "16.587500"
+  },
+  "CM": {
+    "name": "Campania",
+    "capital": "Napoli",
+    "lat": "40.833333",
+    "long": "14.250000"
+  },
+  "EM": {
+    "name": "Emilia-Romagna",
+    "capital": "Bologna",
+    "lat": "44.493889",
+    "long": "11.342778"
+  },
+  "FR": {
+    "name": "Friuli-Venezia Giulia",
+    "capital": "Trieste",
+    "lat": "45.636111",
+    "long": "13.804167"
+  },
+  "LA": {
+    "name": "Lazio",
+    "capital": "Roma",
+    "lat": "41.893056",
+    "long": "12.482778"
+  },
+  "LI": {
+    "name": "Liguria",
+    "capital": "Genova",
+    "lat": "44.411156",
+    "long": "8.932661"
+  },
+  "LO": {
+    "name": "Lombardia",
+    "capital": "Milano",
+    "lat": "45.464161",
+    "long": "9.190336"
+  },
+  "MA": {
+    "name": "Marche",
+    "capital": "Ancona",
+    "lat": "43.616667",
+    "long": "13.516667"
+  },
+  "MO": {
+    "name": "Molise",
+    "capital": "Campobasso",
+    "lat": "41.561000",
+    "long": "14.668400"
+  },
+  "PI": {
+    "name": "Piemonte",
+    "capital": "Torino",
+    "lat": "45.066667",
+    "long": "7.700000"
+  },
+  "PU": {
+    "name": "Puglia",
+    "capital": "Bari",
+    "lat": "41.125278",
+    "long": "16.866667"
+  },
+  "SA": {
+    "name": "Sardegna",
+    "capital": "Cagliari",
+    "lat": "39.216667",
+    "long": "9.116667"
+  },
+  "SI": {
+    "name": "Sicilia",
+    "capital": "Palermo",
+    "lat": "38.115556",
+    "long": "13.361389"
+  },
+  "TO": {
+    "name": "Toscana",
+    "capital": "Firenze",
+    "lat": "43.771389",
+    "long": "11.254167"
+  },
+  "TR": {
+    "name": "Trentino-Alto Adige",
+    "capital": "Trento",
+    "lat": "46.066667",
+    "long": "11.116667"
+  },
+  "UM": {
+    "name": "Umbria",
+    "capital": "Perugia",
+    "lat": "43.112100",
+    "long": "12.388800"
+  },
+  "VA": {
+    "name": "Valle d'Aosta",
+    "capital": "Aosta",
+    "lat": "45.737222",
+    "long": "7.320556"
+  },
+  "VE": {
+    "name": "Veneto",
+    "capital": "Venezia",
+    "lat": "45.439722",
+    "long": "12.331944"
+  }
+}
